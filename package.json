@@ -7,7 +7,7 @@
     "build": "tsc"
   },
   "dependencies": {
-    "resourcemod": "^1.0.19"
+    "resourcemod": "^1.0.22"
   },
   "devDependencies": {
     "@types/node": "^20.11.17",
