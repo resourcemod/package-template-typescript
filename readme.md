@@ -1,1 +1,1 @@
-# typescript template
+# ResourceMod Typescript Template
